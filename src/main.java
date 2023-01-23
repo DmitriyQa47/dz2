@@ -3,6 +3,6 @@ public class main {
         int Rubles = 5000;
         int percentInRubles = 20;
         int bonus = Rubles / percentInRubles;
-        System.out.println("Your bonus is:"+ bonus +" miles");
+        System.out.println("Your bonus is:" + bonus + " miles");
     }
 }
